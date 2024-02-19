@@ -31,6 +31,7 @@ jobs:
       id-token: write
     strategy:
       fail-fast: false
+      matrix:
         base_name: [oasis]
         include:
           - is_latest_version: true
