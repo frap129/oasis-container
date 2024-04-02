@@ -4,6 +4,8 @@
 
 [Oasis Linux](https://github.com/oasislinux) packaged as an OCI container for easier experimentation. With the default configuration, the container is ~63MB, making is an amazingly tiny container base.
 
+Modify `config.lua` before building to customize the container to your liking.
+
 Thank you to @michaelforney and the rest of the @oasislinux contributors for this awesome distro!
 
 
